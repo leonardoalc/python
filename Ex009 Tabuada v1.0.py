@@ -1,0 +1,12 @@
+# Tabuada
+n = int(input("Digite um numero"))
+print("{} x 1 = {:>8}".format(n, n*1))
+print("{} x 2 = {:>8}".format(n, n*2))
+print("{} x 3 = {:>8}".format(n, n*3))
+print("{} x 4 = {:>8}".format(n, n*4))
+print("{} x 5 = {:>8}".format(n, n*5))
+print("{} x 6 = {:>8}".format(n, n*6))
+print("{} x 7 = {:>8}".format(n, n*7))
+print("{} x 8 = {:>8}".format(n, n*8))
+print("{} x 9 = {:>8}".format(n, n*9))
+print("{} x 10 ={:>8}".format(n, n*10))
